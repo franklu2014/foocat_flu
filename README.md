@@ -1,4 +1,4 @@
-## foocat-flu 
+## foocat-flu
 
 ![](https://github.com/franklu2014/foocat_flu/workflows/build/badge.svg) [![codecov](https://codecov.io/gh/franklu2014/foocat_flu/branch/master/graph/badge.svg)](https://codecov.io/gh/franklu2014/foocat_flu) ![Release](https://github.com/franklu2014/foocat_flu/workflows/Release/badge.svg)
 
@@ -9,7 +9,7 @@ in-class exercise
 ### Installation:
 
 ```
-pip install -i https://test.pypi.org/simple/ foocat_flu
+pip install -i https://test.pypi.org/simple/ foocat-flu
 ```
 
 ### Features
